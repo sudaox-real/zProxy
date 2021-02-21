@@ -1,0 +1,11 @@
+C:\Users\ge\source\repos\zProxy\zProxy\obj\Debug\zProxy.csprojAssemblyReference.cache
+C:\Users\ge\source\repos\zProxy\zProxy\obj\Debug\zProxy.Form1.resources
+C:\Users\ge\source\repos\zProxy\zProxy\obj\Debug\zProxy.Properties.Resources.resources
+C:\Users\ge\source\repos\zProxy\zProxy\obj\Debug\zProxy.csproj.GenerateResource.cache
+C:\Users\ge\source\repos\zProxy\zProxy\obj\Debug\zProxy.csproj.CoreCompileInputs.cache
+C:\Users\ge\source\repos\zProxy\zProxy\obj\Debug\zProxy.connected.resources
+C:\Users\ge\source\repos\zProxy\zProxy\bin\Debug\zProxy.exe.config
+C:\Users\ge\source\repos\zProxy\zProxy\bin\Debug\zProxy.exe
+C:\Users\ge\source\repos\zProxy\zProxy\bin\Debug\zProxy.pdb
+C:\Users\ge\source\repos\zProxy\zProxy\obj\Debug\zProxy.exe
+C:\Users\ge\source\repos\zProxy\zProxy\obj\Debug\zProxy.pdb
